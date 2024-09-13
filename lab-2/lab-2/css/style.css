@@ -1,0 +1,33 @@
+/**
+Manik Sharma
+Hao Tian
+**/
+/** Step one **/
+
+/** Step two **/
+h1,h2,h3,h4,h5,h6{
+    font-family: "Protest Guerrilla",sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+/** Step three **/
+h1{
+    font-size: 46px;
+    letter-spacing: 3px;
+    text-align: center;
+    color:#f4511e;
+}
+/** Step four **/
+*{
+    font-family: "Playfair Display", sans-serif;
+}
+/** Step five **/
+p span{
+    color:#4f0bd7;
+    font-weight: bold;
+}
+/** Step six **/
+h3{
+    font-size:2.1rem;
+    text-shadow: 4px 2px 4px rgba(0,0,0,.7);
+}
